@@ -1,8 +1,9 @@
+streamlit
 langchain
-youtube-transcript-api
-faiss-cpu
 langchain-community
-sentence-transformers
 langchain-huggingface
 langchain-text-splitters
-dotenv
+youtube-transcript-api
+faiss-cpu
+sentence-transformers
+python-dotenv
